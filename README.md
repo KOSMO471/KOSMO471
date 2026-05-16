@@ -8,7 +8,7 @@
 ### 🚀 Hakkımda
 Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazılımcıyım. Sürekli yeni teknolojiler öğrenmeyi, algoritma kurmayı ve fikirleri çalışan projelere dönüştürmeyi seviyorum. Oyun geliştirme mekanikleri, yapay zeka mantığı ve sistem optimizasyonları özel olarak ilgimi çekiyor.
 
-- 🛠️ **Şu Anda:** Kendimi geliştirmek için yeni diller, algoritma mantıkları ve optimizasyon teknikleri üzerine çalışıyorum.
+- 🛠️ **Şu Anda:** Herhangi bir projeyle uğraşmıyorum.
 - 📚 **Odak Noktam:** Python ve JavaScript ekosisteminde derinleşmek, verimli kod yazma alışkanlıkları kazanmak.
 - 💬 **İletişim:** Benimle projeler, oyun geliştirme, veri yapıları veya genel kodlama hakkında konuşabilirsiniz!
 
@@ -49,7 +49,7 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 ### 🌐 Sosyal Medya & İletişim
 
 <p align="left">
-  <a href="https://linkedin.com/in/KOSMO471" target="_blank">
+  <a href="https://www.youtube.com/@kosmo471" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fatih@ornek.com">
