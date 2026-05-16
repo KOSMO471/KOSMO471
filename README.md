@@ -1,9 +1,9 @@
-# Selam, ben [Adın Soyadın]! 👋
+# Selam, ben [Mehmet Fatih Yıldırım]! 👋
 
 ### 🚀 Hakkımda
 Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazılımcıyım. Sürekli yeni teknolojiler öğrenmeyi, algoritma kurmayı ve fikirleri çalışan projelere dönüştürmeyi seviyorum.
 
-- 🛠️ Şu anda **[Şu an uğraştığın alan veya proje ismi]** üzerinde çalışıyorum.
+- 🛠️ Şu anda herhangi bir projeyle uğraşmıyorum üzerinde çalışıyorum.
 - 📚 Kendimi geliştirmek için yeni diller ve optimizasyon teknikleri öğreniyorum.
 - 💬 Benimle projeler, oyun geliştirme veya kodlama hakkında konuşabilirsiniz!
 
@@ -25,8 +25,8 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 
 <p align="center">
   <!-- KULLANICI_ADIN yazan yere kendi GitHub kullanıcı adını yaz -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KOSMO471&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOSMO471&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 ### 🌐 Sosyal Medya & İletişim
 
 <p align="left">
-  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="_blank">
+  <a href="https://linkedin.com/in/KOSMO471" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:eposta@adresin.com">
