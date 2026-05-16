@@ -58,14 +58,9 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/KULLANICI_ADIN" target="_blank">
+  <a href="https://www.instagram.com/mehmet.fatih.yildirimm07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Gmail -->
-  <a href="mailto:fatih@ornek.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0N3ZtcW14cXN6bXN4N3pwd3NyeG96bXN6bXN6bXN6bXN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X99vXv5D7GqgIwiXG6/giphy.gif" width="100" alt="Pixel Art Keyboard" />
