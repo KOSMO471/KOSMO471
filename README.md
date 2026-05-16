@@ -1,9 +1,9 @@
-# Selam, ben [Mehmet Fatih Yıldırım]! 👋
+# Selam, ben Mehmet Fatih Yıldırım! 👋
 
 ### 🚀 Hakkımda
 Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazılımcıyım. Sürekli yeni teknolojiler öğrenmeyi, algoritma kurmayı ve fikirleri çalışan projelere dönüştürmeyi seviyorum.
 
-- 🛠️ Şu anda herhangi bir projeyle uğraşmıyorum üzerinde çalışıyorum.
+- 🛠️ Şu anda herhangi bir proje üzerinde uğraşmıyorum.
 - 📚 Kendimi geliştirmek için yeni diller ve optimizasyon teknikleri öğreniyorum.
 - 💬 Benimle projeler, oyun geliştirme veya kodlama hakkında konuşabilirsiniz!
 
