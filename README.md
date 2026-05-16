@@ -1,14 +1,18 @@
 # Selam, ben Mehmet Fatih Yıldırım! 👋
 
 <p align="center">
-  <!-- Eğlenceli veya şık bir yazılımcı GIF'i -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxiY21td3Nib3Z5b293bTI2bHdrNzN5Z280Yzh0ZXN6Y2V5N3V4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqhU52/giphy.gif" width="400" alt="Coding GIF" />
+  <!-- Eğlenceli ve modern bir yazılımcı animasyonu -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0N2p4M283Y3pndWZ0ZzV5N290Yzh0ZXN6Y2V5N3V4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Coding GIF" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=header&text=Welcome%20to%20My%20Space&fontSize=50" alt="Header" />
 </p>
 
 ### 🚀 Hakkımda
 Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazılımcıyım. Sürekli yeni teknolojiler öğrenmeyi, algoritma kurmayı ve fikirleri çalışan projelere dönüştürmeyi seviyorum. Oyun geliştirme mekanikleri, yapay zeka mantığı ve sistem optimizasyonları özel olarak ilgimi çekiyor.
 
-- 🛠️ **Şu Anda:** Herhangi bir projeyle uğraşmıyorum.
+- 🛠️ **Şu Anda:** Yeni projeler ve fikirler üzerinde beyin fırtınası yapıyorum.
 - 📚 **Odak Noktam:** Python ve JavaScript ekosisteminde derinleşmek, verimli kod yazma alışkanlıkları kazanmak.
 - 💬 **İletişim:** Benimle projeler, oyun geliştirme, veri yapıları veya genel kodlama hakkında konuşabilirsiniz!
 
@@ -26,7 +30,7 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 #### 🔧 Araçlar & Editörler
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&bridge=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
@@ -49,10 +53,20 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 ### 🌐 Sosyal Medya & İletişim
 
 <p align="left">
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@kosmo471" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
   </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- Gmail -->
   <a href="mailto:fatih@ornek.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0N3ZtcW14cXN6bXN4N3pwd3NyeG96bXN6bXN6bXN6bXN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X99vXv5D7GqgIwiXG6/giphy.gif" width="100" alt="Pixel Art Keyboard" />
 </p>
