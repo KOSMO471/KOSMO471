@@ -61,7 +61,12 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
   <a href="https://www.instagram.com/mehmet.fatih.yildirimm07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  ###
+  ###
+  ###
+  e-posta:mehmet.fatih.yildirimm@gmail.com
 
+  
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0N3ZtcW14cXN6bXN4N3pwd3NyeG96bXN6bXN6bXN6bXN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X99vXv5D7GqgIwiXG6/giphy.gif" width="100" alt="Pixel Art Keyboard" />
 </p>
