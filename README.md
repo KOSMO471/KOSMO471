@@ -35,8 +35,8 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KOSMO471&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOSMO471&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" height="180em" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KOSMO471&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" height="180em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KOSMO471&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" height="180em" alt="Top Langs" />
 </p>
 
 <p align="center">
