@@ -13,7 +13,7 @@
 Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazılımcıyım. Sürekli yeni teknolojiler öğrenmeyi, algoritma kurmayı ve fikirleri çalışan projelere dönüştürmeyi seviyorum. Oyun geliştirme mekanikleri, yapay zeka mantığı ve sistem optimizasyonları özel olarak ilgimi çekiyor.
 
 * 🛠️ **Şu Anda:** Yeni projeler ve fikirler üzerinde beyin fırtınası yapıyorum.
-* 📚 **Odak Noktam:** Python ve JavaScript ekosisteminde derinleşmek, verimli kod yazma alışkanlıkları kazanmak.
+* 📚 **Odak Noktam:** Python ve JavaScript ekosisteminde derinleşmek, verimli kod yazma alışkanlıkları kazanmanın yanında .
 * 💬 **İletişim:** Benimle projeler, oyun geliştirme, veri yapıları veya genel kodlama hakkında konuşabilirsiniz!
 
 ---
@@ -22,11 +22,14 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 
 #### 💻 Programlama & Geliştirme Dilleri
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### 🔧 Araçlar & Editörler
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Construct](https://img.shields.io/badge/Construct_3-F35C22?style=for-the-badge&logo=construct3&logoColor=white)
 
 ---
 
