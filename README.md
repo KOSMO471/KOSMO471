@@ -28,7 +28,9 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Construct](https://img.shields.io/badge/Construct_3-F35C22?style=for-the-badge&logo=construct3&logoColor=white)
+![Construct](https://img.shields.io/badge/Construct_3-F35C22?style=for-the-badge&logo=construct3&logoColor=white),
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1A1A1A?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ---
 
