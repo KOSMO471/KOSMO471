@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0N2p4M283Y3pndWZ0ZzV5N290Yzh0ZXN6Y2V5N3V4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Coding GIF" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=header&text=Welcome%20to%20My%20Space&fontSize=50" alt="Header" />
-</p>
+### 🌐HOŞ GELDİNİZ🌐
 
 ---
 
