@@ -68,3 +68,14 @@ Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazıl�
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0N3ZtcW14cXN6bXN4N3pwd3NyeG96bXN6bXN6bXN6bXN6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X99vXv5D7GqgIwiXG6/giphy.gif" width="100" alt="Pixel Art Keyboard" />
 </p>
+
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KOSMO471&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOSMO471&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KOSMO471&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
