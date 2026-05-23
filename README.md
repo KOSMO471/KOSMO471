@@ -12,7 +12,7 @@
 
 Ben, yazılım geliştirme ve teknoloji dünyasına tutkuyla bağlı bir yazılımcıyım. Sürekli yeni teknolojiler öğrenmeyi, algoritma kurmayı ve fikirleri çalışan projelere dönüştürmeyi seviyorum. Oyun geliştirme mekanikleri, yapay zeka mantığı ve sistem optimizasyonları özel olarak ilgimi çekiyor.
 
-* 🛠️ **Şu Anda:** Mini World Creata üzerinden bir programlama işiyle uğraşıyorum.
+* 🛠️ **Şu Anda:** Herhangi bir proje ile uğraşmıyorun.
 * 💬 **İletişim:** Benimle projeler, oyun geliştirme ve veri yapıları hakkında konuşabilirsiniz!
 
 ---
